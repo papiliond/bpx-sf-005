@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://edge-sandbox-graph.adobe.io/api/c37aa779-78e2-4d6d-911a-709d7fc56155/graphql",
-      "commerce-endpoint": "https://edge-sandbox-graph.adobe.io/api/c37aa779-78e2-4d6d-911a-709d7fc56155/graphql",
+      "commerce-core-endpoint": "https://stage.m2commerce.itg.cloud/graphql",
+      "commerce-endpoint": "https://stage.m2commerce.itg.cloud/graphql",
       "headers": {
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
